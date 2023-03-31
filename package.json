@@ -9,5 +9,8 @@
   "scripts": {
     "start": "node server/index.js",
     "ferdy": "node ferdy.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.22"
   }
 }
